@@ -1,0 +1,9 @@
+# Tabla comparativa de materiales de chasis
+
+| Material            | Ventajas (3–4)                               | Desventajas (2–3)                          | Aplicaciones comunes (ejemplos)                  |
+|---------------------|-----------------------------------------------|--------------------------------------------|--------------------------------------------------|
+|Acero SECC|- Alta resistencia y durabilidad<br>- Buen blindaje EMI/RFI<br> - Excelente relación calidad-precio| - Pesado <br> - Conductividad termica moderada <br>|Cajas de PC de gama media-baja, servidores, componentes industriales |
+|    Aluminio         |- Ligero <br> - Excelente disipacion de calor <br> - Estetica premium<br>| - Mas caro que el acero <br> - Menor resistencia a abolladuras que el acero | Cajas de PC de gama alta, portatiles.|
+|Plástico              |- Muy ligero<br> - Bajo costo<br> - Facilidad para moldear formas complejas |- Menor resistencia y durabilidad<br> - Poca disipacion de calor<br> - Acumulacion de polvo| Paneles frontales/laterales, componentes internos no estructurales, cajas de bajo costo|
+|Vidrio templado| - Estetica moderna y elegante<br> - Permite mostrar componentes internos<br> - Resistente a arañazos|- Fragil<br> - Pesado <br> - Aumenta la temperatura interna| Paneles laterales de cajas de PC de gama alta, mesas de centro, puertas de ducha|
+|Materiales compuestos| -Muy alta resistencia y ligereza<br> - Permite diseños innovadores<br> - Variedad de propiedades|- Muy caros<br> - Procesos de fabricaciones complejos|Cajas de PC personalizadas de ultragama alta, componentes militares/aeroespaciales, coches deportivos|
